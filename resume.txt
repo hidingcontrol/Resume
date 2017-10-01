@@ -1,3 +1,4 @@
 Name: Jaylord A. Legaspi
 Organization: Data Center College of the Philippines
 Motto: Hindi ako masiba, matagal lang akong mabusog
+Description: Chubby pero that's the new sexy...
